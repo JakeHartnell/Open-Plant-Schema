@@ -17,7 +17,6 @@ So I haven't been able to find much in the way of plant schemas. The USDA has a 
 
 Their data only contains complete information for a releatively small ammount of plants. Example entry:
 
-{
         "Accepted Symbol": "ABFR",
         "Scientific Name": "Abies fraseri",
         "Common Name": "Fraser fir",
@@ -104,7 +103,7 @@ Their data only contains complete information for a releatively small ammount of
         "Protein Potential": "Low",
         "Pulpwood Product": "Yes",
         "Veneer Product": "Yes"
-    },
+
 
 This is an example entry from 'SF_Plant_List.json', which may contain info on plants not in the USDA dataset:
 
