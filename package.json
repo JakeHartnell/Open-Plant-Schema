@@ -1,0 +1,23 @@
+{
+  "name": "open-plant-data",
+  "version": "0.0.2",
+  "description": "Tools to gather meaningful information off the web and build a database of plants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CommonGarden/plantData.git"
+  },
+  "author": "Jake Hartnell",
+  "license": "Free BSD",
+  "bugs": {
+    "url": "https://github.com/CommonGarden/plantData/issues"
+  },
+  "homepage": "https://github.com/CommonGarden/plantData",
+  "dependencies": {
+    "node-webcrawler": "^0.7.2",
+    "nodemw": "^0.8.1"
+  }
+}
